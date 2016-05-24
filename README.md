@@ -1,2 +1,2 @@
-# trabalho m1lgr4u
-printf("pao");
+# pao
+obinna eh melhor q o eto'o
